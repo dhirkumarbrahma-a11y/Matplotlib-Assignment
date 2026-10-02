@@ -1,0 +1,301 @@
+product,category,date,sales_amount
+Casserole Set,Home & Kitchen,2025-01-02,2943.27
+Bluetooth Speaker,Electronics,2025-01-04,14961.03
+Olive Oil,Groceries,2025-01-07,1403.93
+Cotton T-Shirt,Clothing,2025-01-07,1131.31
+Air Fryer,Home & Kitchen,2025-01-08,4151.42
+Track Pants,Clothing,2025-01-09,1912.21
+Hair Conditioner,Beauty & Personal Care,2025-01-11,1864.48
+Water Purifier,Home & Kitchen,2025-01-11,1675.47
+Green Tea,Groceries,2025-01-12,1083.09
+Perfume EDP,Beauty & Personal Care,2025-01-12,988.7
+Non-stick Pan,Home & Kitchen,2025-01-14,1812.92
+Formal Shirt,Clothing,2025-01-14,1532.61
+Coffee Maker,Home & Kitchen,2025-01-16,5150.36
+Face Serum,Beauty & Personal Care,2025-01-17,1291.98
+Face Serum,Beauty & Personal Care,2025-01-17,1198.4
+Bluetooth Speaker,Electronics,2025-01-17,3633.0
+Organic Honey,Groceries,2025-01-17,1599.74
+Non-stick Pan,Home & Kitchen,2025-01-18,4716.09
+Perfume EDP,Beauty & Personal Care,2025-01-19,1271.02
+Coffee Maker,Home & Kitchen,2025-01-20,3758.48
+Green Tea,Groceries,2025-01-25,1316.52
+Hoodie,Clothing,2025-01-25,831.26
+Hair Conditioner,Beauty & Personal Care,2025-01-25,373.85
+Bluetooth Speaker,Electronics,2025-01-25,4223.4
+Organic Honey,Groceries,2025-01-26,1665.94
+Olive Oil,Groceries,2025-01-27,679.06
+Moisturizer,Beauty & Personal Care,2025-01-29,1373.2
+Water Purifier,Home & Kitchen,2025-01-29,6066.05
+Formal Shirt,Clothing,2025-02-01,682.11
+Wireless Earbuds,Electronics,2025-02-03,10895.53
+Laptop Stand,Electronics,2025-02-05,11444.55
+Organic Honey,Groceries,2025-02-05,1102.85
+Laptop Stand,Electronics,2025-02-08,11855.72
+Denim Jeans,Clothing,2025-02-09,3037.53
+Cotton T-Shirt,Clothing,2025-02-10,3400.78
+Bluetooth Speaker,Electronics,2025-02-11,12707.87
+Bluetooth Speaker,Electronics,2025-02-11,11484.12
+Hoodie,Clothing,2025-02-13,1957.09
+Bluetooth Speaker,Electronics,2025-02-15,9406.65
+Green Tea,Groceries,2025-02-16,1453.64
+Air Fryer,Home & Kitchen,2025-02-18,3409.64
+Track Pants,Clothing,2025-02-18,2382.02
+Water Purifier,Home & Kitchen,2025-02-20,2497.34
+Casserole Set,Home & Kitchen,2025-02-22,3429.53
+Almonds (500g),Groceries,2025-02-23,1031.8
+Water Purifier,Home & Kitchen,2025-02-24,3028.8
+Green Tea,Groceries,2025-02-24,1120.71
+Track Pants,Clothing,2025-02-24,2065.52
+Smartwatch,Electronics,2025-02-26,11760.72
+Perfume EDP,Beauty & Personal Care,2025-02-28,1406.28
+Formal Shirt,Clothing,2025-02-28,2283.42
+Coffee Maker,Home & Kitchen,2025-03-02,3981.59
+Hair Conditioner,Beauty & Personal Care,2025-03-04,1186.09
+Wireless Earbuds,Electronics,2025-03-04,1465.93
+Bluetooth Speaker,Electronics,2025-03-05,12078.91
+Hoodie,Clothing,2025-03-08,1423.31
+Track Pants,Clothing,2025-03-10,3188.97
+Green Tea,Groceries,2025-03-14,1355.41
+Casserole Set,Home & Kitchen,2025-03-16,4865.09
+Green Tea,Groceries,2025-03-16,370.86
+Laptop Stand,Electronics,2025-03-17,10842.67
+Olive Oil,Groceries,2025-03-19,154.28
+Perfume EDP,Beauty & Personal Care,2025-03-19,1145.73
+Wireless Earbuds,Electronics,2025-03-21,9306.22
+Hair Conditioner,Beauty & Personal Care,2025-03-22,1076.01
+Laptop Stand,Electronics,2025-03-22,8815.31
+Non-stick Pan,Home & Kitchen,2025-03-23,1941.63
+Sunscreen SPF 50,Beauty & Personal Care,2025-03-23,940.59
+Organic Honey,Groceries,2025-03-25,657.83
+Track Pants,Clothing,2025-03-26,812.66
+Hoodie,Clothing,2025-03-27,639.7
+Almonds (500g),Groceries,2025-03-28,1416.84
+Hair Conditioner,Beauty & Personal Care,2025-03-28,1608.18
+Coffee Maker,Home & Kitchen,2025-03-29,2825.99
+Denim Jeans,Clothing,2025-03-30,712.46
+Coffee Maker,Home & Kitchen,2025-03-31,817.25
+Perfume EDP,Beauty & Personal Care,2025-04-02,1188.23
+Casserole Set,Home & Kitchen,2025-04-06,1526.17
+Organic Honey,Groceries,2025-04-07,302.28
+Basmati Rice,Groceries,2025-04-08,158.75
+Olive Oil,Groceries,2025-04-08,671.72
+Face Serum,Beauty & Personal Care,2025-04-08,643.37
+Sunscreen SPF 50,Beauty & Personal Care,2025-04-11,1427.72
+Sunscreen SPF 50,Beauty & Personal Care,2025-04-12,450.69
+Laptop Stand,Electronics,2025-04-13,6186.14
+Formal Shirt,Clothing,2025-04-14,3492.85
+Cotton T-Shirt,Clothing,2025-04-18,1931.34
+Laptop Stand,Electronics,2025-04-18,2422.6
+Smartwatch,Electronics,2025-04-19,13827.02
+Wireless Earbuds,Electronics,2025-04-21,10498.35
+Bluetooth Speaker,Electronics,2025-04-22,12791.06
+Wireless Earbuds,Electronics,2025-04-23,12153.43
+Smartwatch,Electronics,2025-04-23,1740.55
+Wireless Earbuds,Electronics,2025-04-24,1451.23
+Sunscreen SPF 50,Beauty & Personal Care,2025-04-25,264.69
+Wireless Earbuds,Electronics,2025-04-27,2039.52
+Wireless Earbuds,Electronics,2025-04-27,2543.91
+Bluetooth Speaker,Electronics,2025-04-28,12043.81
+Basmati Rice,Groceries,2025-04-29,297.19
+Denim Jeans,Clothing,2025-04-30,662.0
+Sunscreen SPF 50,Beauty & Personal Care,2025-04-30,2004.31
+Organic Honey,Groceries,2025-05-02,930.72
+Basmati Rice,Groceries,2025-05-08,1032.81
+Casserole Set,Home & Kitchen,2025-05-08,3539.66
+Almonds (500g),Groceries,2025-05-08,1387.35
+Track Pants,Clothing,2025-05-09,1935.81
+Moisturizer,Beauty & Personal Care,2025-05-10,458.06
+Hair Conditioner,Beauty & Personal Care,2025-05-11,648.86
+Olive Oil,Groceries,2025-05-11,1114.86
+Denim Jeans,Clothing,2025-05-12,2196.91
+Smartphone,Electronics,2025-05-14,7250.61
+Almonds (500g),Groceries,2025-05-17,423.11
+Bluetooth Speaker,Electronics,2025-05-21,14722.57
+Air Fryer,Home & Kitchen,2025-05-23,4883.96
+Smartphone,Electronics,2025-05-24,5031.02
+Organic Honey,Groceries,2025-05-26,1335.45
+Non-stick Pan,Home & Kitchen,2025-05-27,4654.28
+Organic Honey,Groceries,2025-05-28,295.87
+Smartphone,Electronics,2025-05-28,6359.05
+Green Tea,Groceries,2025-05-29,1340.63
+Green Tea,Groceries,2025-05-29,525.13
+Cotton T-Shirt,Clothing,2025-05-30,1232.88
+Wireless Earbuds,Electronics,2025-05-31,2897.9
+Wireless Earbuds,Electronics,2025-06-01,6165.48
+Water Purifier,Home & Kitchen,2025-06-01,3266.5
+Almonds (500g),Groceries,2025-06-01,1146.14
+Organic Honey,Groceries,2025-06-02,1024.24
+Denim Jeans,Clothing,2025-06-03,468.77
+Face Serum,Beauty & Personal Care,2025-06-03,898.99
+Track Pants,Clothing,2025-06-03,3179.49
+Cotton T-Shirt,Clothing,2025-06-05,1944.31
+Olive Oil,Groceries,2025-06-07,1348.56
+Denim Jeans,Clothing,2025-06-07,1446.09
+Smartphone,Electronics,2025-06-08,11986.62
+Hair Conditioner,Beauty & Personal Care,2025-06-10,371.57
+Formal Shirt,Clothing,2025-06-10,1042.41
+Laptop Stand,Electronics,2025-06-11,3356.96
+Almonds (500g),Groceries,2025-06-13,1388.33
+Almonds (500g),Groceries,2025-06-14,1364.81
+Track Pants,Clothing,2025-06-14,3457.4
+Hoodie,Clothing,2025-06-15,1476.98
+Bluetooth Speaker,Electronics,2025-06-17,8594.69
+Smartphone,Electronics,2025-06-21,11515.82
+Non-stick Pan,Home & Kitchen,2025-06-22,615.99
+Green Tea,Groceries,2025-06-24,1539.45
+Track Pants,Clothing,2025-06-25,977.59
+Bluetooth Speaker,Electronics,2025-06-26,14545.23
+Track Pants,Clothing,2025-06-26,3122.48
+Laptop Stand,Electronics,2025-06-27,8116.35
+Hair Conditioner,Beauty & Personal Care,2025-06-28,1665.94
+Wireless Earbuds,Electronics,2025-06-29,3711.64
+Air Fryer,Home & Kitchen,2025-06-30,6446.48
+Wireless Earbuds,Electronics,2025-07-01,8419.59
+Non-stick Pan,Home & Kitchen,2025-07-01,5066.78
+Wireless Earbuds,Electronics,2025-07-06,12516.88
+Smartwatch,Electronics,2025-07-07,13114.45
+Face Serum,Beauty & Personal Care,2025-07-08,1070.04
+Olive Oil,Groceries,2025-07-09,342.55
+Formal Shirt,Clothing,2025-07-12,1666.41
+Face Serum,Beauty & Personal Care,2025-07-13,1749.39
+Perfume EDP,Beauty & Personal Care,2025-07-14,1889.38
+Sunscreen SPF 50,Beauty & Personal Care,2025-07-16,1687.94
+Track Pants,Clothing,2025-07-17,1179.47
+Basmati Rice,Groceries,2025-07-17,1164.67
+Casserole Set,Home & Kitchen,2025-07-18,2809.17
+Water Purifier,Home & Kitchen,2025-07-19,5979.93
+Smartwatch,Electronics,2025-07-20,12760.86
+Track Pants,Clothing,2025-07-20,1737.74
+Casserole Set,Home & Kitchen,2025-07-20,4692.93
+Smartphone,Electronics,2025-07-21,6178.57
+Formal Shirt,Clothing,2025-07-28,1098.53
+Moisturizer,Beauty & Personal Care,2025-07-28,2070.7
+Wireless Earbuds,Electronics,2025-07-29,1870.1
+Smartwatch,Electronics,2025-07-30,9840.35
+Casserole Set,Home & Kitchen,2025-08-03,2298.78
+Basmati Rice,Groceries,2025-08-03,553.18
+Smartphone,Electronics,2025-08-03,5222.51
+Denim Jeans,Clothing,2025-08-03,2285.07
+Water Purifier,Home & Kitchen,2025-08-03,6352.9
+Olive Oil,Groceries,2025-08-04,1514.22
+Bluetooth Speaker,Electronics,2025-08-05,11328.74
+Track Pants,Clothing,2025-08-07,2100.67
+Wireless Earbuds,Electronics,2025-08-10,9615.44
+Wireless Earbuds,Electronics,2025-08-10,5842.48
+Denim Jeans,Clothing,2025-08-11,2284.47
+Wireless Earbuds,Electronics,2025-08-11,13921.39
+Formal Shirt,Clothing,2025-08-12,2313.52
+Hoodie,Clothing,2025-08-12,1424.08
+Denim Jeans,Clothing,2025-08-14,2411.35
+Formal Shirt,Clothing,2025-08-15,2048.76
+Bluetooth Speaker,Electronics,2025-08-15,9799.37
+Sunscreen SPF 50,Beauty & Personal Care,2025-08-17,1642.42
+Cotton T-Shirt,Clothing,2025-08-17,799.12
+Laptop Stand,Electronics,2025-08-20,4146.82
+Wireless Earbuds,Electronics,2025-08-22,8808.3
+Wireless Earbuds,Electronics,2025-08-23,10696.85
+Laptop Stand,Electronics,2025-08-25,2048.0
+Cotton T-Shirt,Clothing,2025-08-25,672.39
+Green Tea,Groceries,2025-08-27,736.35
+Smartphone,Electronics,2025-08-27,13497.89
+Denim Jeans,Clothing,2025-09-01,606.52
+Track Pants,Clothing,2025-09-01,2164.15
+Formal Shirt,Clothing,2025-09-03,560.07
+Smartwatch,Electronics,2025-09-03,10935.71
+Laptop Stand,Electronics,2025-09-04,5700.17
+Denim Jeans,Clothing,2025-09-06,1503.57
+Track Pants,Clothing,2025-09-07,723.17
+Coffee Maker,Home & Kitchen,2025-09-07,3188.59
+Laptop Stand,Electronics,2025-09-08,9109.12
+Bluetooth Speaker,Electronics,2025-09-12,1251.63
+Smartwatch,Electronics,2025-09-13,7530.37
+Face Serum,Beauty & Personal Care,2025-09-14,1803.12
+Organic Honey,Groceries,2025-09-14,1640.2
+Sunscreen SPF 50,Beauty & Personal Care,2025-09-18,704.77
+Basmati Rice,Groceries,2025-09-20,1338.85
+Wireless Earbuds,Electronics,2025-09-21,5663.84
+Casserole Set,Home & Kitchen,2025-09-21,2615.22
+Formal Shirt,Clothing,2025-09-21,2532.13
+Organic Honey,Groceries,2025-09-23,1224.76
+Water Purifier,Home & Kitchen,2025-09-23,4716.24
+Laptop Stand,Electronics,2025-09-24,1482.94
+Sunscreen SPF 50,Beauty & Personal Care,2025-09-25,1584.91
+Air Fryer,Home & Kitchen,2025-09-25,2110.49
+Smartphone,Electronics,2025-09-27,12734.24
+Organic Honey,Groceries,2025-09-30,1378.01
+Moisturizer,Beauty & Personal Care,2025-10-02,1141.15
+Moisturizer,Beauty & Personal Care,2025-10-05,285.57
+Denim Jeans,Clothing,2025-10-07,2218.26
+Green Tea,Groceries,2025-10-08,1479.68
+Hair Conditioner,Beauty & Personal Care,2025-10-09,989.5
+Face Serum,Beauty & Personal Care,2025-10-09,384.4
+Track Pants,Clothing,2025-10-12,494.46
+Cotton T-Shirt,Clothing,2025-10-12,2097.08
+Basmati Rice,Groceries,2025-10-12,1399.05
+Green Tea,Groceries,2025-10-13,1652.28
+Hair Conditioner,Beauty & Personal Care,2025-10-14,970.0
+Coffee Maker,Home & Kitchen,2025-10-15,5722.98
+Wireless Earbuds,Electronics,2025-10-15,13215.31
+Smartphone,Electronics,2025-10-15,6484.27
+Casserole Set,Home & Kitchen,2025-10-15,735.83
+Basmati Rice,Groceries,2025-10-16,1040.64
+Moisturizer,Beauty & Personal Care,2025-10-18,529.1
+Wireless Earbuds,Electronics,2025-10-18,8065.53
+Perfume EDP,Beauty & Personal Care,2025-10-19,649.75
+Hoodie,Clothing,2025-10-20,1463.07
+Laptop Stand,Electronics,2025-10-20,7768.63
+Bluetooth Speaker,Electronics,2025-10-21,994.14
+Almonds (500g),Groceries,2025-10-22,457.57
+Bluetooth Speaker,Electronics,2025-10-23,11897.51
+Organic Honey,Groceries,2025-10-23,425.11
+Olive Oil,Groceries,2025-10-29,1135.51
+Organic Honey,Groceries,2025-10-30,323.03
+Face Serum,Beauty & Personal Care,2025-10-30,1416.96
+Organic Honey,Groceries,2025-11-01,894.0
+Formal Shirt,Clothing,2025-11-01,2073.57
+Denim Jeans,Clothing,2025-11-03,3292.11
+Almonds (500g),Groceries,2025-11-05,379.06
+Perfume EDP,Beauty & Personal Care,2025-11-06,1908.92
+Organic Honey,Groceries,2025-11-06,1647.98
+Organic Honey,Groceries,2025-11-07,170.14
+Wireless Earbuds,Electronics,2025-11-07,4152.85
+Air Fryer,Home & Kitchen,2025-11-08,4282.2
+Casserole Set,Home & Kitchen,2025-11-09,5448.56
+Cotton T-Shirt,Clothing,2025-11-09,2241.04
+Smartphone,Electronics,2025-11-11,5516.48
+Green Tea,Groceries,2025-11-14,1331.7
+Perfume EDP,Beauty & Personal Care,2025-11-14,1331.89
+Cotton T-Shirt,Clothing,2025-11-15,1048.31
+Air Fryer,Home & Kitchen,2025-11-17,1920.71
+Hoodie,Clothing,2025-11-19,1477.62
+Formal Shirt,Clothing,2025-11-22,2944.67
+Smartphone,Electronics,2025-11-23,12231.63
+Organic Honey,Groceries,2025-11-24,1531.86
+Hair Conditioner,Beauty & Personal Care,2025-11-24,1319.99
+Formal Shirt,Clothing,2025-11-26,1667.76
+Hoodie,Clothing,2025-11-26,2046.92
+Olive Oil,Groceries,2025-12-01,1652.63
+Smartphone,Electronics,2025-12-03,4052.16
+Bluetooth Speaker,Electronics,2025-12-03,12605.48
+Hair Conditioner,Beauty & Personal Care,2025-12-05,2120.2
+Organic Honey,Groceries,2025-12-07,936.42
+Laptop Stand,Electronics,2025-12-08,9177.37
+Smartphone,Electronics,2025-12-08,14034.6
+Smartphone,Electronics,2025-12-08,11262.88
+Basmati Rice,Groceries,2025-12-10,603.31
+Smartwatch,Electronics,2025-12-13,10622.34
+Water Purifier,Home & Kitchen,2025-12-15,6341.35
+Denim Jeans,Clothing,2025-12-20,2063.09
+Hair Conditioner,Beauty & Personal Care,2025-12-21,1389.19
+Non-stick Pan,Home & Kitchen,2025-12-22,1809.96
+Formal Shirt,Clothing,2025-12-25,1826.37
+Basmati Rice,Groceries,2025-12-25,241.83
+Coffee Maker,Home & Kitchen,2025-12-26,5229.54
+Basmati Rice,Groceries,2025-12-27,1497.04
+Green Tea,Groceries,2025-12-28,985.07
+Basmati Rice,Groceries,2025-12-29,1380.86
+Organic Honey,Groceries,2025-12-30,1070.27
+Air Fryer,Home & Kitchen,2025-12-30,5987.68
+Hair Conditioner,Beauty & Personal Care,2025-12-31,449.31
+Sunscreen SPF 50,Beauty & Personal Care,2025-12-31,1308.56
